@@ -1,5 +1,5 @@
 what's happening guys my name is
-nicholas ronatt and in this video
+shivam garg and in this tutorial
 we're going to be taking a look at a
 ipad text generation using
 a gpt3 clone called gpt neo in
